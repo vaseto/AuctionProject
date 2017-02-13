@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "AuctionProject\Core.csproj", "{3B0430F6-DFE7-42C3-9540-710C4880EE7F}"
 EndProject
@@ -54,32 +54,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 8
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://semesterproject2.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Database\\Database.csproj
-		SccProjectName1 = Database
-		SccLocalPath1 = Database
-		SccProjectUniqueName2 = ConsoleApplication1\\ConsoleApplication1.csproj
-		SccProjectName2 = ConsoleApplication1
-		SccLocalPath2 = ConsoleApplication1
-		SccProjectUniqueName3 = BussinessLayer\\BussinessLayer.csproj
-		SccProjectName3 = BussinessLayer
-		SccLocalPath3 = BussinessLayer
-		SccProjectUniqueName4 = AuctionProject\\Core.csproj
-		SccProjectName4 = AuctionProject
-		SccLocalPath4 = AuctionProject
-		SccProjectUniqueName5 = AuctionProject\\UnitTestProject1\\UnitTestProject1.csproj
-		SccProjectName5 = AuctionProject/UnitTestProject1
-		SccLocalPath5 = AuctionProject\\UnitTestProject1
-		SccProjectUniqueName6 = WcfServiceLibraryAuction\\WcfServiceLibraryAuction.csproj
-		SccProjectName6 = WcfServiceLibraryAuction
-		SccLocalPath6 = WcfServiceLibraryAuction
-		SccProjectUniqueName7 = TestConsoleApp\\TestConsoleApp.csproj
-		SccProjectName7 = TestConsoleApp
-		SccLocalPath7 = TestConsoleApp
 	EndGlobalSection
 EndGlobal
