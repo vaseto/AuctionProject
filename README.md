@@ -1,2 +1,4 @@
 # AuctionProject
-The normal user will be able to use the ASP.NET web client to register and use accounts, as well as create and browse auctions and bids. 
+The solution where the service lies. The service has access to the core classes and controllers
+which perform the business logic and contact the database. To run the other applications, the
+server should be started.
