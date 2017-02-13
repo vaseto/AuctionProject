@@ -1,4 +1,4 @@
 # AuctionProject
 The solution where the service lies. The service has access to the core classes and controllers
-which perform the business logic and contact the database. To run the other applications, the
+which perform the business logic and contact the database. To run the other applications (AuctionWebApplication), the
 server should be started.
